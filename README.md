@@ -1,6 +1,6 @@
 # [🎵 Shrudio: Your Ultimate Audio Lab](https://shrudio-by-shreyash.vercel.app/)
 
-Author: Shreyash Srivastva
+**Author: Shreyash Srivastva**
 
 ## Shrudio is your all-in-one audio tool: play music, generate melodies, create sound effects, and tune instruments—all in a sleek, intuitive interface powered by the Web Audio API. 🎶✨ 
 
@@ -25,7 +25,7 @@ Author: Shreyash Srivastva
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/shrudio.git  
+   git clone https://github.com/shreyazh/shrudio.git  
    ```  
 
 2. Install dependencies:  
