@@ -6,7 +6,6 @@ Author: Shreyash Srivastva
 
 
 ## 🌟 Features  
-
 - **Music Player**  
   - Upload and play local audio files.  
   - Seek through tracks, adjust volume, and control playback.  
