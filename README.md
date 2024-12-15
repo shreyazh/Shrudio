@@ -6,7 +6,6 @@ Author: Shreyash Srivastva
 
 ## Shrudio is your all-in-one audio tool: play music, generate melodies, create sound effects, and tune instruments—all in a sleek, intuitive interface powered by the Web Audio API. 🎶✨ 
 
----
 
 ## 🌟 Features  
 
