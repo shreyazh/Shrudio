@@ -4,6 +4,10 @@
 
 ## Shrudio is your all-in-one audio tool: play music, generate melodies, create sound effects, and tune instruments—all in a sleek, intuitive interface powered by the Web Audio API. 🎶✨ 
 
+## Inspiration
+Shrudio was inspired by the desire to create an all-in-one audio tool that allows musicians, creators, and sound enthusiasts to generate, play, and experiment with different audio features in a seamless environment. We wanted to bring together the power of music creation, sound effects, and real-time pitch detection into one platform.
+
+---
 
 ## 🌟 Features  
 - **Music Player**  
@@ -63,11 +67,6 @@
 
 4. **Tuner:**  
    Use your microphone to detect pitch and tune instruments with ease.
-
---- 
-
-## Inspiration
-Shrudio was inspired by the desire to create an all-in-one audio tool that allows musicians, creators, and sound enthusiasts to generate, play, and experiment with different audio features in a seamless environment. We wanted to bring together the power of music creation, sound effects, and real-time pitch detection into one platform.
 
 ---
 
